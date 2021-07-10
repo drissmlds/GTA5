@@ -34,7 +34,7 @@ Or select one of the playlists from the list below.
 		<tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">Auto</td><td align="right">21</td><td align="left"><code>https://github.com/drissmlds/iptv/blob/master/bein.m3u</code></td></tr>
+		<tr><td align="left">Auto</td><td align="right">21</td><td align="left"><code>https://filebin.net/4gozrgxywjpzn26q/bein.m3u</code></td></tr>
 		
 	</tbody>
 </table>
