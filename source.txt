@@ -53,7 +53,7 @@ Or select one of the playlists from the list below.
 		<tr><th align="left">Language</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">Akan</td><td align="right">2</td><td align="left"><code>https://srv-store2.gofile.io/download/4280e00d-adef-4399-9400-d7cdf7aee2bc/aka.m3u</code></td></tr>
+		
 		<tr><td align="left">Albanian</td><td align="right">17</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/sqi.m3u</code></td></tr>
 		<tr><td align="left">Amharic</td><td align="right">1</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/amh.m3u</code></td></tr>
 		<tr><td align="left">Arabic</td><td align="right">375</td><td align="left"><code>https://iptv-org.github.io/iptv/languages/ara.m3u</code></td></tr>
