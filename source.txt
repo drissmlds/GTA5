@@ -34,7 +34,7 @@ Or select one of the playlists from the list below.
 		<tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
 	</thead>
 	<tbody>
-		<tr><td align="left">Auto</td><td align="right">21</td><td align="left"><code>https://store7.gofile.io/download/b574867a-a8dd-4c16-be65-269f3bbd9b5a/bein.m3u</code></td></tr>
+		<tr><td align="left">Auto</td><td align="right">21</td><td align="left"><code>https://store7.gofile.io/download/d1cb31a3-1347-408e-83bb-702a7fc76b22/tv_channels_791177023481955_plus.m3u</code></td></tr>
 		
 	</tbody>
 </table>
